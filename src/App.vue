@@ -1,8 +1,9 @@
+import logo from '../src/assets/vlone.png';
+
 <template>
   <div class="vlone">
   <div>
     <div class="navbar">
-    <img src='../assets/vlone.png' class="logo" alt="Logo">
     <ul class="nav-links">
       <li><a href="#">Vlone Shop</a></li>
       <button id="toggle-btn">Modo Noturno</button>
